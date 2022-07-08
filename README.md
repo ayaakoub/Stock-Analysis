@@ -4,7 +4,7 @@
 
 Louise is working on a play "Fever" and wants to see the relationship of previous project outcomes in relation to their launch date and funding goal. The project uses data from past crowdfunding projects. 
 
-### Results
+## Results
 The purpose of the learn and use powerful features in excel such as:
 - Pivot tables
 - Pivot charts 
